@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Zest",
+        "description": "Restaurant website",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "responsive": true,
+        "link": "https://blumrj.github.io/zest/",
+        "image": "assets/img/zest.png"
+    },
+    {
+        "name": "Bookwise",
+        "description": "Online bookstore",
+        "technologies": ["PHP", "HTML", "CSS", "JavaScript", "MySQL"],
+        "responsive": true,
+        "link": "https://blumrj.github.io/zest/",
+        "image": "assets/img/zest.png"
+    },
+    {
+        "name": "Bookwise",
+        "description": "Online bookstore",
+        "technologies": ["PHP", "HTML", "CSS", "JavaScript", "MySQL"],
+        "responsive": false,
+        "link": "https://blumrj.github.io/zest/",
+        "image": "assets/img/zest.png"
+    }
+]
